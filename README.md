@@ -6,4 +6,4 @@ This repository is built step by step in the tutorial.
 
 Github is really awasome.
 
-Now pushing branch to github.
+This line is added to check how pull commands works. 
